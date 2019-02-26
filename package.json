@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/EnzoFranzini1/video_creator/issues"
   },
-  "homepage": "https://github.com/EnzoFranzini1/video_creator#readme"
+  "homepage": "https://github.com/EnzoFranzini1/video_creator#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
