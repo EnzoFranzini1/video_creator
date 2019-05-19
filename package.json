@@ -18,8 +18,10 @@
   "homepage": "https://github.com/EnzoFranzini1/video_creator#readme",
   "dependencies": {
     "algorithmia": "^0.3.10",
+    "gm": "^1.23.1",
     "googleapis": "^39.1.0",
     "image-downloader": "^3.4.2",
+    "imagemagick": "^0.1.3",
     "readline-sync": "^1.4.9"
   }
 }
